@@ -6,6 +6,7 @@ This project was created by following [How To Make A Popup Using HTML, CSS And J
 ## Key Features and Technologies
 - JavaScript, HTML, CSS
 - Event Listeners
+- Modal
 
 ## How To Use
 Click the 'Submit' button to make the popup appear. Click 'OK' on the popup to close it.
